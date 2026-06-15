@@ -31,7 +31,7 @@
 
 | 仓库 | 说明 | 在线体验 |
 | :--- | :--- | :--- |
-| [AIEngineeringPlaybook](https://github.com/XipoBuilder/AIEngineeringPlaybook) | 信创本地AI部署、税务效率工具集、垂直税务大模型微调实验 | [🔗 试用](https://XipoBuilder.github.io/AIEngineeringPlaybook) | |
+| [TaxAIPlaybook](https://github.com/XipoBuilder/AIEngineeringPlaybook) | 信创本地AI部署、税务AI工具集、税务大模型微调实战 | [🔗 试用](https://XipoBuilder.github.io/AIEngineeringPlaybook) | |
 | [TaxKnowledge](https://github.com/XipoBuilder/TaxKnowledge) | 税务方法论、SOP、案例分析（脱敏） | [文档仓库](https://XipoBuilder.github.io/AIEngineeringPlaybook) |
 
 ### 🎮 亲子教育 · 童真创造力
