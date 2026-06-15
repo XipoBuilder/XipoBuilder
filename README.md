@@ -31,8 +31,8 @@
 
 | 仓库 | 说明 | 在线体验 |
 | :--- | :--- | :--- |
-| [TaxAIPlaybook](https://github.com/XipoBuilder/AIEngineeringPlaybook) | 信创本地AI部署、税务AI工具集、税务大模型微调实战 | [🔗 试用](https://XipoBuilder.github.io/AIEngineeringPlaybook) | |
-| [TaxKnowledge](https://github.com/XipoBuilder/TaxKnowledge) | 税务方法论、SOP、案例分析（脱敏） | [文档仓库](https://XipoBuilder.github.io/AIEngineeringPlaybook) |
+| [TaxAIPlaybook](https://github.com/XipoBuilder/TaxAIPlaybook) | 信创本地AI部署及应用、税务AI工具集、税务大模型微调实战 | [🔗 试用](https://XipoBuilder.github.io/TaxAIPlaybook/) | |
+| [TaxKnowledge](https://github.com/XipoBuilder/TaxKnowledge) | 税务方法论、SOP、案例分析（脱敏） | [文档仓库](https://XipoBuilder.github.io/TaxKnowledge/) |
 
 ### 🎮 亲子教育 · 童真创造力
 
@@ -50,7 +50,7 @@
 
 | 仓库 | 说明 |
 | :--- | :--- |
-| [KnowledgeBase](https://github.com/XipoBuilder/KnowledgeBase) | 学习笔记、考证经验、考试心得 |
+| [StudyArchive](https://github.com/XipoBuilder/StudyArchive) | 学习笔记、考证经验、考试心得 |
 
 ### 🔮 未来扩展（预留）
 
